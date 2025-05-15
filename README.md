@@ -1,6 +1,6 @@
 # calculator_project
 
-# Simple Calculator in Python
+## Simple Calculator in Python
 
 This is a beginner-friendly calculator built using Python and Tkinter. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
