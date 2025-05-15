@@ -29,7 +29,7 @@ This is a beginner-friendly calculator built using Python and Tkinter. It perfor
 3. Navigate to the project folder:
 
    ```bash
-   cd calculator-project
+   cd calculator_project
    ```
 4. Run the calculator:
 
